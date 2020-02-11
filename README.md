@@ -44,6 +44,7 @@ c.DELETE is used to delete a resource
 
 d.POST is used to create a resource 	
 
+# Status Codes
 HTTP already has status codes. RESTful APIs try to reuse the same instead of reinventing a new way to deal with errors.
 
 200 OK - all is well

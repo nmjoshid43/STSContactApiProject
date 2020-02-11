@@ -30,8 +30,14 @@ So we  have one resource type, “contact”. What REST suggests is to model the
 
 
 a.GET is used for reading any resource
+
+
 b.PUT is used to replace a resource 
+
+
 c.DELETE is used to delete a resource
+
+
 d.POST is used to create a resource 	
 
 HTTP already has status codes. RESTful APIs try to reuse the same instead of reinventing a new way to deal with errors.

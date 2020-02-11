@@ -1,5 +1,5 @@
 # STSContactApiProject
-Contact Api with data sprinng boot starter project
+Contact Api with data spring boot starter project
 
 Contact API - RESTful
 What are all the actions that you may want to do with an Contact API?
@@ -38,7 +38,6 @@ HTTP already has status codes. RESTful APIs try to reuse the same instead of rei
 400 Bad Request - the server could not understand the request from the client
 404 Not Found - The resource is not found
 500 Internal Server Error - something totally went wrong with the server, not your fault
-
 
 we are using springBoot Application, with spring web and JPA,Apachy Derby runtime database
 Spring boot starts up embeded tomcat server, embeded derby database at startup

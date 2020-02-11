@@ -11,7 +11,7 @@ delete an entry
 
 -Each contact in the contact has first name, last name,email and phone number and status(active/Inactive).
 
-To design a restful API, we don’t start looking at actions, but at resources. Resources are just the thongs that you are dealing in the system.
+To design a restful API, we don’t start looking at actions, but at resources. Resources are just the things that you are dealing in the system.
 
 So we  have one resource type, “contact”. What REST suggests is to model the URLs around the resources. So you  have two URL endpoints. One endpoint for representing all contacts and another for each individual contact.
 

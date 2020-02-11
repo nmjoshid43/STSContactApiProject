@@ -4,10 +4,13 @@ Contact Api with data spring boot starter project
 # Contact API - RESTful
 What are all the actions that you may want to do with an Contact API?
 
-list all entries in the Contact,
-add a new entry,
-update an entry,
-delete an entry
+1.list all entries in the Contact
+
+2.add a new entry
+
+3.update an entry
+
+4.delete an entry
 
 -Each contact in the contact has first name, last name,email and phone number and status(active/Inactive).
 

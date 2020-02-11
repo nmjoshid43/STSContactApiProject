@@ -28,7 +28,7 @@ So we  have one resource type, “contact”. What REST suggests is to model the
 
 4.DELETE /contacts/$id - delete a contact
 
-
+# HTTP Methods
 a.GET is used for reading any resource
 
 

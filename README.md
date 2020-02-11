@@ -16,6 +16,7 @@ To design a restful API, we don’t start looking at actions, but at resources. 
 So we  have one resource type, “contact”. What REST suggests is to model the URLs around the resources. So you  have two URL endpoints. One endpoint for representing all contacts and another for each individual contact.
 
 /contacts
+
 /contacts/$id -- Here i have considered phonenumber as id (as its unique) for showcase, but we can take another field which does not have any business value.
 
 The RESTful way to handle CRUD operation is to use HTTP methods for actions.
